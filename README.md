@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Khushpreet Kaur 👋
 
-<!--
-**KhushpreetKaur-10/KhushpreetKaur-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Com (FinTech) Student at Indira University
 
-Here are some ideas to get you started:
+I'm passionate about the intersection of **Finance, Technology, and Business Strategy**. Currently building my skills in data analysis, programming, and financial problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Python
+- SQL
+- Microsoft Excel
+- Git & GitHub
+- Financial Analysis
+- Business Psychology
+
+## 🎯 2026 Goals
+
+- Build real-world Python & SQL projects
+- Create a strong GitHub portfolio
+- Secure internships in FinTech & Analytics
+- Learn by building consistently
+
+## 🛠️ Skills
+
+- Python (Learning)
+- SQL (Learning)
+- Excel
+- Git & GitHub
+- Financial Analysis
+
+## 📫 Connect with Me
+
+💼 LinkedIn: https://www.linkedin.com/in/khushpreet-kaur-25b525409?utm_source=share_via&utm_content=profile&utm_medium=member_android
